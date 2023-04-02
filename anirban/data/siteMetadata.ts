@@ -9,7 +9,7 @@ const siteMetadata = {
   },
   headerTitle: "Anirban Nath",
   description: "A place for my ramblings",
-  siteUrl: "https://mannuvls.vercel.app",
+  siteUrl: "https://anirban-dev.vercel.app/",
   siteRepo: "https://github.com/",
   siteLogo: "/static/images/logo.png",
   image: "/static/images/avatar.png",
